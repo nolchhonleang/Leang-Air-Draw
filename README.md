@@ -101,3 +101,7 @@ License
 This project is open-source and available for non-commercial use. Please credit Nol Chhonleang when sharing or modifying.
 
 Created by Nol Chhonleang
+
+<img width="1280" height="787" alt="image" src="https://github.com/user-attachments/assets/c7b39be7-9de1-410a-b6ea-2da55da45ffa" />
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/d9221e70-b66e-4afc-8e42-c0030a2bd279" />
+
